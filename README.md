@@ -17,7 +17,11 @@
 
 ## Business Context
 
+## Business Context
+
 This project was developed during my time as **Data Analyst at Sunniva Solar**, where I was responsible for building and maintaining the sales performance reporting infrastructure used by sales leadership and operations teams.
+
+**Note on Data:** All performance figures, contract values, rep names, and revenue numbers in this project have been anonymized and adjusted from actual figures to protect company confidentiality. The data structure, KPI framework, analytical methodology, and business insights reflect real work performed in this role. Specific numbers are illustrative only.
 
 The dashboard was designed to give leadership a single source of truth on rep performance, lead source effectiveness, regional trends, cancellation root causes, and revenue forecasting. The findings directly informed rep coaching decisions, territory adjustments, and the launch of the company's formal referral incentive program.
 
